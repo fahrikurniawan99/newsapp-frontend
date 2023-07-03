@@ -3,6 +3,7 @@ import RootLayout from "./components/root";
 import HomePage from "./components/home/home-page";
 import HistoryPage from "./components/history/history-page";
 
+// pages
 export const router = createBrowserRouter([
   {
     path: "/",
