@@ -1,8 +1,6 @@
-
 # Frontend Developer Test
 
 This project is built with Reactjs, Typescript, and Tailwindcss. By using Api from [newsapi.org](https://newsapi.org).
-
 
 ## Run Locally
 
@@ -27,5 +25,5 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
